@@ -37,8 +37,7 @@ y recuperar los objetos.
 &nbsp; Es necesario ingresar un usuario y contraseña para poder testear la aplicacion, de esta forma, dependiendo de el nivel de jerarquia (si es admin o no) se podra acceder
 a diferentes opciones disponibles.
 
-| Modo | usuario | contraseña | Descripcion
-| ----------- | ----------- |
-| Admin | admin | admin | podra generar nuevos usuarios
-| User | user | user | podra sacar turnos seleccionados desde un calendario implementado desde la app.
-
+| Modo | usuario | contraseña | Descripcion |
+| ----------- | ----------- | ----------- | ----------- |
+| **Admin** | admin | admin| Podra generar nuevos usuarios. |
+| **User** | user | user | Podra sacar turnos seleccionados desde un calendario implementado desde la app. |
