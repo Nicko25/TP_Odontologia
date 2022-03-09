@@ -1,4 +1,4 @@
-# Trabajo Practico - Sistema de reserva de turnos
+# Trabajo Practico - Sistema de Reserva de Turnos
 
 Se desea implementar un sistema que permita administrar la reserva de turnos
 para una clínica odontológica. Los requerimientos que debe cumplir son los
